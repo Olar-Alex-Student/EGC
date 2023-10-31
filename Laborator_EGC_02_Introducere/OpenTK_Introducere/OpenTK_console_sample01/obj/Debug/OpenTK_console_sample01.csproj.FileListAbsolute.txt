@@ -1,0 +1,35 @@
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe.config
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.pdb
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csprojResolveAssemblyReference.cache
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.exe
+C:\Users\epoc3\Desktop\EGC\OpenTK [new]\OpenTK_lab02\OpenTK_console_sample01\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csprojAssemblyReference.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 04\OpenTK_lab02\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csprojAssemblyReference.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.pdb
