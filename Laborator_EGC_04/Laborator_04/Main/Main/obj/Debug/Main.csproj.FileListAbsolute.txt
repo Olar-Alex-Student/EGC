@@ -1,0 +1,25 @@
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\Main.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\Main.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\Main.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.pdb
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\Main.exe.config
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\Main.exe
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\Main.pdb
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\OpenTK.dll
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\OpenTK.GLControl.dll
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\OpenTK.xml
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\bin\Debug\OpenTK.GLControl.xml
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\obj\Debug\Main.csproj.CopyComplete
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\obj\Debug\Main.exe
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main\obj\Debug\Main.pdb
