@@ -1,0 +1,21 @@
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\obj\Debug\Main_2.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\bin\Debug\Main_2.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\bin\Debug\Main_2.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\bin\Debug\Main_2.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\obj\Debug\Main_2.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\obj\Debug\Main_2.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\obj\Debug\Main_2.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main_2\obj\Debug\Main_2.csprojAssemblyReference.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\bin\Debug\Main_2.exe.config
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\bin\Debug\Main_2.exe
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\bin\Debug\Main_2.pdb
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\bin\Debug\OpenTK.dll
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\bin\Debug\OpenTK.xml
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\obj\Debug\Main_2.csproj.AssemblyReference.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\obj\Debug\Main_2.csproj.SuggestedBindingRedirects.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\obj\Debug\Main_2.csproj.CoreCompileInputs.cache
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\obj\Debug\Main_2.csproj.CopyComplete
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\obj\Debug\Main_2.exe
+D:\EGC\Laborator_EGC_04\Laborator_04\Main\Main_2\obj\Debug\Main_2.pdb
